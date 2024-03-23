@@ -1,0 +1,13 @@
+:root {
+    --theme-color: #327CEC;
+    --element-light-gray: #F2F2F2;
+    --element-gray: #D7D7D7;
+
+    --text-black: #262626;
+    --text-gray: #B9B9B9;
+    --text-red: #FF1C1C;
+
+    --default-background-color: white;
+
+    --default-font-size: 14px;
+}
